@@ -1,0 +1,4 @@
+name: spawnerProject
+version: '${project.version}'
+main: org.possess.spawnerproject.SpawnerProject
+api-version: '1.21'
