@@ -26,6 +26,8 @@ import java.util.EnumMap;
 import java.util.HashMap;
 import java.util.Map;
 
+// by riloox 07/07/24
+//to-do customizable through config file
 public final class SpawnerProject extends JavaPlugin implements Listener {
 
     private static final String SPAWNER_GUI_TITLE = "Select Mob to Spawn";
